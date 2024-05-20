@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhishekkrov
 - 👀 I’m a Data Science Enthusiast
 - 🌱 I’m currently a student of Business Analytics and Information Management at Purdue University
-- 💞️ I’m looking to collaborate on NLP projects
+- 💞️ I’d love to collaborate on data analytics and data science projects!
 - 😄 Pronouns: He/Him
 
 <!---
